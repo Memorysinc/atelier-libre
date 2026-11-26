@@ -8,17 +8,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-10%20%2F%2011%20(x64)-141414?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10/11" />
-  <img src="https://img.shields.io/badge/100%25-Offline-1f1c1a?style=for-the-badge" alt="100% Offline" />
-  <img src="https://img.shields.io/badge/Sin_Licencias-Gratis-2f8f6b?style=for-the-badge" alt="Sin Licencias" />
-  <img src="https://img.shields.io/badge/Idiomas-ES%20%7C%20EN%20%7C%20PT%20%7C%20FR-347f8f?style=for-the-badge" alt="4 Idiomas" />
-  <img src="https://img.shields.io/badge/Monedas-12%2B%20y%20Personalizada-9a7b4f?style=for-the-badge" alt="12+ Monedas" />
-  <img src="https://img.shields.io/badge/Temas-7%20Paletas%20%2B%20Oscuro-63608f?style=for-the-badge" alt="7 Temas + Modo Oscuro" />
+  <code>Windows 10 / 11 (x64)</code> · <code>100 % Offline</code> · <code>Sin Licencias</code> · <code>4 Idiomas (ES / EN / PT / FR)</code> · <code>12+ Monedas</code> · <code>7 Temas + Modo Oscuro</code>
 </p>
 
 <p align="center">
   <a href="https://github.com/Memorysinc/atelier-libre/raw/main/AtelierLibre.exe">
-    <img src="https://img.shields.io/badge/⬇_DESCARGAR_ATELIERLIBRE.EXE_(Windows_x64)-141414?style=for-the-badge" alt="Descargar AtelierLibre.exe" height="42" />
+    <img src="assets/download-btn.svg" alt="Descargar AtelierLibre.exe (Windows x64)" width="380" />
   </a>
 </p>
 
